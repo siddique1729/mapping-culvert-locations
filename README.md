@@ -24,7 +24,7 @@
 # Binary Variable Transformation - (R)
 
 * 0 ~ 5 – Unsatisfactory Condition is represented by 0
-* > = 6 - Satisfactory Condition is represented by 1
+* Greater than/ Equal to 6 - Satisfactory Condition is represented by 1
 
 # Stratified Random Sampling (R) - Stratified Sampling.R
 * It uses clean_name.csv dataset
