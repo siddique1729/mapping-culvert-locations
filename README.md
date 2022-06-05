@@ -8,7 +8,7 @@
 * Identify important features for subsequent modeling. 
 * Map national culverts distribution
 
-# Data Cleaning using (R)
+# Data Cleaning - (R)
 
 * It uses culvertdata.csv dataset
 * It removes the outlier data from the following columns:  
@@ -16,12 +16,12 @@
 * It converts the non-standard values into NA’s and removes the data for the following columns:  
 1. SCOUR_CRITICAL_113 2. WATERWAY_EVAL_071 3. STRUCTURAL_EVAL_067 4. CHANNEL_COND_061  
 * After creating 4 new columns with integer types for the above columns, the 4 non-standard columns are removed
-* The following 3 character/string type columns are removed that will not be considered as input for correlation:  
+* The following 3 character/string type columns are removed that will not be considered as input for correlation: 
 1. FID 2. BRIDGE_CONDITION 3. NAME  
 * Cleaned data is taken with 33 observations: clean.csv
 * Cleaned data with names with 36 observations: clean_name.csv
 
-# Binary Variable Transformation (R) - Data Cleaning_Binary 
+# Binary Variable Transformation - (R)
 Transformation.R
  0 ~ 5 – Unsatisfactory Condition is represented by 0
  > = 6 - Satisfactory Condition is represented by 1
