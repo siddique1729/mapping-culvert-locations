@@ -1,5 +1,4 @@
-# The code is written by Jawwad Shadman Siddique | R11684947
-# Date of Submission: 11 / 02 / 2020
+# The code is written by Jawwad Shadman Siddique
 # This Step performs Stratified Random Sampling with a seed value of 10
 # It extracts 10% of the culverts from each state
 # The sampling uses 'splitstackshape' package
