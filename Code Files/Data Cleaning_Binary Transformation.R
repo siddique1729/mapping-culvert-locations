@@ -1,5 +1,4 @@
-# The code is written by Jawwad Shadman Siddique | R11684947
-# Date of Submission: 11 / 04 / 2020
+# The code is written by Jawwad Shadman Siddique
 # This Step performs Data Cleaning & Binary Variable Transformation
 # It cleans the outlier and non-standard data
 # It cleans the non-standard missing values by converting it into NA's
