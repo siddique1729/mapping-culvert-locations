@@ -1,5 +1,8 @@
 # mapping-culvert-locations
 
+The project objective is to map culverts with different existing conditions all over the U.S.A. The project uses the national culvert dataset consisting of approximately 140,000 data points. The variables included in the dataset covers the structural conditions of the culverts, their dimensions, area of proximity, collected ratings, working conditions and their in-situ environmental state.  
+
+
 * Libraries & Packages Used:  
 1. R - splitstackshape, tidverse  
 2. Python - numpy, seaborn, matplotlib, pandas, sklearn, statsmodels  
