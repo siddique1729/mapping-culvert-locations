@@ -7,7 +7,7 @@ The project objective is to map culverts with different existing conditions all 
 1. R - splitstackshape, tidverse  
 2. Python - numpy, seaborn, matplotlib, pandas, sklearn, statsmodels  
 
-* Functions:  
+* Job:  
 1. Data Cleaning  
 2. Random Sampling  
 3. Feature Engineering & Selection  
