@@ -35,6 +35,10 @@
 * The following 3 columns are removed from the stratified dataset as they will not be considered for correlation  
 1. FID 2. BRIDGE_CONDITION 3. NAME
 
+<img src="1. Bar Plot_Stratified.png">
+
+<img src="2. Bar Plot_Total.png">
+
 ## Correlation Plot - (Python)
 
 * It uses strat_data.csv as dataset
