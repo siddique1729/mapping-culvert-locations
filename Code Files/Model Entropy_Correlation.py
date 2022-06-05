@@ -1,6 +1,5 @@
 """
-# The code is written by Jawwad Shadman Siddique | R11684947
-# Date of Submission: 11 / 04 / 2020
+# The code is written by Jawwad Shadman Siddique
 # This Step performs Model Entropy & Correlation
 """
 
