@@ -1,5 +1,16 @@
 # mapping-culvert-locations
 
+* Libraries & Packages Used:  
+1. R - splitstackshape, tidverse  
+2. Python - numpy, seaborn, matplotlib, pandas, sklearn, statsmodels  
+
+* Functions performed while undertaking the project:  
+1. Data Cleaning  
+2. Random Sampling  
+3. Feature Engineering & Selection  
+4. Model Entropy and Correlation  
+5. Mapping
+
 ## Project Objectives
 
 * Use the National culvert rating dataset:
