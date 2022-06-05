@@ -44,13 +44,19 @@
 * From the correlation plot it is evident that the following columns show highest correlation with the output column:
 1. YEAR_BUILT_027 2. APPR_ROAD_EVAL_072 3. LOWEST_RATING 4. Struc_eval 5. Channel_cond
 
+<img src="images/3. Correlation Plot.png">
+
 ## Model Entropy - (Python)
 
 * From the mutual information we find the following giving more information about the culvert condition:
 1. YEAR_BUILT_027 2. LOWEST_RATING 3. Struc_eval 4. Channel_cond
+
+<img src="4. Model Entropy.png">
 
 
 ## State-wise Culvert Location Mapping - (Python) 
 
 * It uses Map Data.csv as dataset for Python
 * Data points of states are taken to plot the culvert presence using Geopandas
+
+<img src="5. Culvert Location Map.png">
